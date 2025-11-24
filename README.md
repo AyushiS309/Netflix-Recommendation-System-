@@ -1,3 +1,6 @@
+https://github.com/user-attachments/assets/d85d486b-e412-492c-be1d-8e5cb622e2cb
+
+
 🎬 Netflix Movie Recommendation System
 
 An interactive, machine learning-powered web application that recommends Netflix movies and shows based on user preferences and dataset insights. Built with **Python**, **Streamlit**, **scikit-learn**, and **Plotly**, the app delivers powerful content-based, genre-based, and popularity-based recommendations alongside interactive visual analytics.
