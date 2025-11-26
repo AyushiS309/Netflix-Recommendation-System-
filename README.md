@@ -1,23 +1,23 @@
 https://github.com/user-attachments/assets/d85d486b-e412-492c-be1d-8e5cb622e2cb
 
 
-🎬 Netflix Movie Recommendation System
+ Netflix Movie Recommendation System
 
 An interactive, machine learning-powered web application that recommends Netflix movies and shows based on user preferences and dataset insights. Built with **Python**, **Streamlit**, **scikit-learn**, and **Plotly**, the app delivers powerful content-based, genre-based, and popularity-based recommendations alongside interactive visual analytics.
 
 ---
 
-🔍 Features
+ Features
 
-- 🎯 **Content-Based Filtering**: Recommends similar titles using TF-IDF vectorization and cosine similarity.
-- 🔥 **Popular Titles**: Highlights top content based on recency and estimated duration ratings.
-- 🎭 **Genre-Based Suggestions**: Allows users to explore shows by genre category.
-- 📊 **Visual Dashboard**: Includes interactive charts and KPIs using Plotly and Streamlit.
-- 💅 **Custom UI/UX**: Styled interface using embedded HTML/CSS for a Netflix-like experience.
+-  **Content-Based Filtering**: Recommends similar titles using TF-IDF vectorization and cosine similarity.
+-  **Popular Titles**: Highlights top content based on recency and estimated duration ratings.
+-  **Genre-Based Suggestions**: Allows users to explore shows by genre category.
+-  **Visual Dashboard**: Includes interactive charts and KPIs using Plotly and Streamlit.
+-  **Custom UI/UX**: Styled interface using embedded HTML/CSS for a Netflix-like experience.
 
 ---
 
-🧠 Machine Learning Techniques
+ Machine Learning Techniques
 
 | Tool | Use |
 |------|-----|
@@ -27,7 +27,7 @@ An interactive, machine learning-powered web application that recommends Netflix
 
 ---
 
-📂 Dataset
+ Dataset
 
 - **Source**: [Netflix Movies and TV Shows Dataset – Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 - `netflix_titles.csv`: Includes details like title, cast,
